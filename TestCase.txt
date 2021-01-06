@@ -1,0 +1,13 @@
+Below mentioned are the few test case's involving all the move that can take place as per menu.
+
+Case 1: To test single strike(1), red strike(3),none(6)
+1 1 6 1 3 6 1 1 1 6 1 1 1
+
+Case 2: To test fouls(4,5) and 3 consecutive no pockets(4,5,6)
+6 1 4 1 5 2 1 1 6 1 4 1 6 1 4 1 1 
+
+Case 3: To test multistrike(2)
+3 1 2 1 3 2 1 1 1 1 1 1 1 1
+
+Case 4: Different between the point is less than 3 --Draw Case--
+3 1 1 1 4 1 1 1 1 4 1 1
